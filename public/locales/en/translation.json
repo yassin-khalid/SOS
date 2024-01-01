@@ -1,0 +1,114 @@
+{
+  "mode": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "ar": "Arabic",
+    "en": "English"
+  },
+  "hero": {
+    "title": "Help on Street Service Company",
+    "description": "founded at the beginning of 2010 by its founder, Mr. Sultan Saeed Mohammed Al-Bassami, and now SOS has become a leader in the automotive transportation market.",
+    "trucks": {
+      "uncovered": "uncovered hydrocloric tow truck",
+      "covered": "covered hydrocloric tow truck"
+    },
+    "buttons": {
+      "track": "Track Order",
+      "more": "Learn More"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact Us",
+    "track": "Track"
+  },
+  "vision": {
+    "title": "Vision & Mission",
+    "vision": {
+      "title": "Vision",
+      "description": "Our ultimate goal is to become the Kingdom ’s global market leader and standard vehicle transport company and continue further developing our services in transport and logistics solutions offering value and quality servicing the widest range of individual customers, corporations of any size , and business partners field"
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "At SOS our mission is to deliver a VIP vehicle transport experience to every customer by blending innovative logistics solutions with a commitment to service excellence."
+    }
+  },
+  "who": {
+    "title": "Who Are Us?",
+    "points": [
+      "Roadside Assistance Services Company is a Saudi limited company headquartered in Jeddah, Saudi Arabia and is a leading automotive transportation company in the Kingdom and in the Middle East.",
+      "The company was founded at the beginning of 2010 by its founder, Mr. Sultan Saeed Mohammed Al-Bassami, and the beginning was with a small number of surfaces to transport customers' cars within and between the cities of the Kingdom and over the course of 12 years, and we gain the trust of our customers with our continuous successes and to provide the best services in this field",
+      "Due to the wise management and development outlook of the sector and because the roadside assistance services company has paid great attention and effort to develop and expand the activity, it has been expanded little by little by increasing the fleet until SOS has become a leader in the automotive transportation market",
+      "Our goal is always to maintain leadership in this field with the readiness of our fleet and its strength from the operational and technical sides, and for this reason, especially advanced and specialized maintenance centers have been established to maintain all types of surfaces and equipped with the latest equipment to always maintain the excellence of the service provided to our customers",
+      "The management also worked hard with the presence of the company's branches throughout the Kingdom, and many branches were opened, praise be to God, in all cities of the Kingdom of Saudi Arabia."
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Our goal is always to gain the trust and satisfaction of customers, so customers will be informed immediately by customer service representatives of any expected delay in the arrival of their cars from the agreed date due to any problems beyond the company’s control that occur on the road such as weather factors or traffic congestion.",
+    "support": {
+      "hours": "We are pleased to provide 24-hour customer support and service in one of the following ways:",
+      "ways": [
+        "The unified customer service number 920005587 to answer all customer questions and inquiries",
+        "A24-hour operations department that can track and know the status of all surfaces and flights for all customers"
+      ]
+    },
+    "call": "Call"
+  },
+  "objective": {
+    "title": "Our Objectives",
+    "objectives": [
+      {
+        "title": "Reliability",
+        "description": "Providing the best service in the field of car transportation to gain the trust of our customers and their complete satisfaction."
+      },
+      {
+        "title": "Quality",
+        "description": "Full commitment to the highest standards of safety and quality in the service provided."
+      },
+      {
+        "title": "Motivation",
+        "description": "Providing the best working environment for our employees by providing continuous training and motivation at work."
+      },
+      {
+        "title": "Relationship",
+        "description": "Building long strategic partnerships with our clients aimed at continuous success and providing mutual benefits."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      "Where can I benefit from SOS services?",
+      "What are the features of the SOS Roadside Assistance Services application?",
+      "What services are available in the application?",
+      "How can I benefit from SOS services?",
+      "How can I register as a service provider with SOS Roadside Assistance Services?",
+      "Is it possible to cancel the service request after confirming the order?",
+      "How is the price of the service calculated?",
+      "Is there insurance on the vehicle in the event of damage to the vehicle during the transportation process?",
+      "Can I track the vehicle during the transportation process?",
+      "Can I change the vehicle’s unloading location after loading?",
+      "How can I get more information, support or make a complaint?",
+      "What payment methods are available in the application?"
+    ],
+    "answers": [
+      "The services will be available in all cities of the Kingdom of Saudi Arabia.",
+      "The application is characterized by ease of use and that it works 24 hours a day, 7 days a week. The application searches for the nearest service provider to the user in order to be served as quickly as possible and at competitive prices.",
+      "Towing and rescue services - vehicle transportation - fuel supply - repair by deploying - subscribing or changing a battery - periodic inspection - accident assessment - unlocking door locks - and other services.",
+      "You can benefit from the services by downloading the SOS application available in electronic stores, then registering and requesting the service.",
+      "You can easily join us through our website or by registering in the SOS drivers app",
+      "Yes, you can cancel the service before the driver arrives or 5 minutes before confirming the order, whichever comes first.",
+      "The service is calculated based on the type of service, the distance traveled, and other factors.",
+      "You can add vehicle insurance while requesting the transportation service, and insurance fees will be added.",
+      "Yes, you can track the vehicle through the application.",
+      "Yes, you can do that through the application, and it will incur additional fees depending on the distance and other factors.",
+      "You can contact the support team at any time through the application via direct chats, and you can also write to us via email: support@sos-ksa.com or call the following numbers: 059389389 - 0593893898",
+      "All payment methods are available in the application, whether in cash, bank cards (Mada), credit cards, Apple Pay, and others."
+    ]
+  }
+}
