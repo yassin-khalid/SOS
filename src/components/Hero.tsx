@@ -1,6 +1,7 @@
 import CountUp from "react-countup";
 import { Button } from "./ui/button";
 import { useTranslation } from "react-i18next";
+import { toast } from "sonner";
 
 const Hero = () => {
   const { t, i18n } = useTranslation();
