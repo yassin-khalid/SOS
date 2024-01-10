@@ -47,8 +47,6 @@ const MainNav = () => {
             dir={i18n.resolvedLanguage === "en" ? "ltr" : "rtl"}
           >
             <ModeToggle />
-            {/* <Social /> */}
-            {/* <LanguageToggle /> */}
             <MobileMenu />
           </div>
         </div>
