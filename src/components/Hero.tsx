@@ -18,7 +18,22 @@ const Hero = () => {
       </p>
       <div className="flex items-center justify-center gap-8 mb-12">
         <a href="#track">
-          <Button className="text-white"> {t("hero.buttons.track")}</Button>
+          <Button
+            className="text-white"
+            onClick={() =>
+              toast(t("hero.toast.message"), {
+                description: t("hero.toast.description"),
+                action: {
+                  label: t("hero.toast.label"),
+                  onClick(event) {
+                    console.log(event);
+                  },
+                },
+              })
+            }
+          >
+            {t("hero.buttons.track")}
+          </Button>
         </a>
         <a href="#about">
           <Button className="text-darker" variant="secondary">
