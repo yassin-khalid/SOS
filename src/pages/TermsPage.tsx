@@ -7,12 +7,15 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 
 const TermsPage = ({
   terms,
+  language,
 }: {
   terms: "customer-terms" | "service-terms";
+  language: "en" | "ar";
 }) => {
   const { t, i18n } = useTranslation();
   const { title, description, table, definitions } = t(terms, {
@@ -23,6 +26,9 @@ const TermsPage = ({
     table: { header: string[]; body: { term: string; meaning: string }[] };
     definitions: { title: string; p1?: string; list?: string[] }[];
   };
+  useEffect(() => {
+    i18n.changeLanguage(language);
+  }, [language, i18n]);
 
   return (
     <>

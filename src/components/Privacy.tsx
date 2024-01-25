@@ -1,7 +1,9 @@
+import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 
-const Privacy = () => {
+const Privacy = ({ language }: { language: "en" | "ar" }) => {
   const { t, i18n } = useTranslation();
+
   const { titles, headers, lists, footers } = t("privacy.details", {
     returnObjects: true,
   }) as {
@@ -10,6 +12,10 @@ const Privacy = () => {
     lists: (string[] | null)[];
     footers: (string | null)[];
   };
+  useEffect(() => {
+    i18n.changeLanguage(language);
+  }, [language, i18n]);
+
   return (
     <div
       className="px-4 lg:px-0 max-w-4xl mx-auto mb-20"

@@ -41,11 +41,11 @@ const Footer = () => {
             <ModeToggle />
             <LanguageToggle />
           </div>
-          <ul className="flex items-center gap-3.5">
-            {links.map((link) => (
-              <li>
+          <ul className="flex flex-col md:flex-row md:items-center gap-3.5">
+            {links.map((link, i) => (
+              <li key={i}>
                 <a
-                  href={link.href}
+                  href={`/${i18n.resolvedLanguage}${link.href}`}
                   className="text-sm text-muted-foreground hover:underline"
                 >
                   {link.title}

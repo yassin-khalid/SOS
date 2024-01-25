@@ -1,11 +1,11 @@
 import BackHomeButton from "@/components/BackHomeButton";
 import Privacy from "@/components/Privacy";
 
-const PrivacyPage = () => {
+const PrivacyPage = ({ language }: { language: "en" | "ar" }) => {
   return (
     <>
       <BackHomeButton />
-      <Privacy />;
+      <Privacy language={language} />;
     </>
   );
 };
