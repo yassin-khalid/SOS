@@ -135,6 +135,7 @@
         "Security",
         "Sharing Personal Information",
         "Disclosures Pursuant to Law",
+        "Data retention and deletion",
         "Third-Party Sites",
         "Business Transfers",
         "Acceptance of Terms of Use",
@@ -148,6 +149,7 @@
         "Your security is important to us, but it is important to remember that online transmission and electronic storage methods are not 100% secure.",
         "We at \"SOS\" do not sell, trade, or rent users' personal identification information to third parties. We may share aggregated demographic information that is not linked to any personal identification information about visitors and users with our partners, affiliates, and advertisers for the purposes described above. We may use a third-party service provider to help us operate our business and also to operate the app or to manage activities on our behalf. We may share your data with this third party for those limited purposes.",
         "In certain circumstances, we may be required to disclose your personal information if so required by law, or in response to requests from law enforcement agencies (for example, a court or government agency). We may also disclose your personal information in good faith if such action is necessary to:",
+        "SOS retains user data for as long as necessary for the purposes described above. Users may request account deletion through the SOS apps and websites.\nSOS  retains user data for as long as necessary for the purposes described above, which varies depending on data type, the category of user to whom the data relates, the purposes for which we collected the data, and whether the data must be retained after an account deletion request for the purposes described below.\nFor example, we retain data:",
         "Users may find ads or other content on our app that contain links to websites and services of our partners, advertisers, sponsors, or other third-party entities. Please note that we do not control the content or links that appear on those sites and are not responsible for the practices of the sites linked to our app. In addition, those sites or services, including the content and links, may change frequently, and those sites and services have their own privacy policies and customer service policies.",
         "In the event of acquisition of our company or other assets, customer data will be one of the assets transferred to the new owner.",
         "By using this app, you agree to our privacy policy and the terms and conditions that govern the use of this app. You also agree that your continued use of the app after we announce changes to this policy or to the terms and conditions of using the app will be considered your consent to those changes.",
@@ -172,6 +174,8 @@
           "We may collect personal information when you sign up to chat with the chatbot.",
           "Through using the app: When you download or use the app, we and our service providers may track and collect app usage data, such as the time and date the app on your device accessed our servers, and the information and files that were downloaded to the app based on your device ID.",
           "From you: We may collect information from you when you voluntarily provide us with that information.",
+          "Location data collection (Customers and order recipients) Customers and order recipients can enable/disable company collection of their mobile device location data through their device settings.",
+          "Share Live Location (Customers and order recipients) Customers and order recipients can enable/disable company sharing of their mobile device real-time location data with their customers or order recipients (as applicable) through their device settings.",
           "Through location: We may collect information about the geographic location of your device.",
           "Through third-party payment services: In some cases, we may use third-party payment services to process purchases through our website. In these cases, your personal information may be collected by that third-party, not by us. The collected information will then be subject to the privacy policy of that third-party, not to our privacy policy. We, therefore, cannot control or be held responsible for the use of your personal information or its disclosure by that third-party."
         ],
@@ -189,6 +193,11 @@
           "Prevent any wrongdoing related to the app.",
           "Protect the personal safety of app users and/or the public."
         ],
+        [
+          "for the life of users’ accounts if such data is necessary to provide our services. E.g., account data.",
+          "for 7 years if necessary to comply with tax requirements. E.g., drivers’ and delivery persons’ trip or delivery location information.",
+          "for defined periods as necessary for purposes of safety or fraud prevention. E.g., we retain incomplete driver applications for 1 year, and rejected driver applications for 7 years."
+        ],
         null,
         null,
         null,
@@ -202,6 +211,7 @@
         "While we seek to use commercially acceptable means to protect your personal information, we cannot guarantee it is absolutely secure as some events may occur beyond our control and are not related to our intentional behavior or negligence.",
         null,
         null,
+        "Users may request deletion of their account through the profile menus in the SOS  app, or through SOS ’s website WWW.SOS-KSA.COM.\nFollowing an account deletion request, we delete the user’s account and data, except as necessary for purposes of safety, security, fraud prevention or compliance with legal requirements, or because of issues relating to the user’s account (such as an outstanding credit or an unresolved claim or dispute). For drivers and delivery persons, this generally means that we retain certain of their data for as long as necessary for actual or potential tax, litigation, or insurance claims. For rider and order recipients, we generally delete data within 90 days of an account deletion request, except where retention is necessary for the above reasons.",
         null,
         null,
         null,
