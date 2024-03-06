@@ -349,6 +349,8 @@
           "\"SOS\" application may modify or update prices from time to time, and it is your responsibility to stay informed of the current prices for roadside assistance.",
           "You acknowledge and agree that you comply with the value and distance that is calculated by \"SOS\" meter, which \"SOS\" guarantees its accuracy by %99, and agree that the calculated fare and the distance traveled are those calculated by SOS meter for each transportation operation.",
           "You acknowledge and agree that in any case, and in the event of the failure of the \"SOS\" meter during the transportation process for any reason, whether the reason is due to SOS technologies, or to your own equipment, you are committed to pay the value of the basic fare only to the service provider, which is the amount Apparent in the application for the type of service required.",
+          "The application can withdraw the amounts due automatically when a payment method is available, such as: credit cards or others.",
+          "If the amount of the service was paid in advance, and after the end of the service there are differences in the price, the remaining amount will be automatically withdrawn, the excess amount will be automatically returned, or payment of the remaining amount will be requested through the SOS application.",
           "All prices and invoices are subject to the Value Added Tax system in Kingdom of Saudi Arabia."
         ]
       },
